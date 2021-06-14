@@ -39,6 +39,20 @@ There are different section in my software
 
 ## View of project
 
+<br />
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project1.png")
+<br />
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project2.png")
+<br />
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project3.png")
+<br />
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project4.png")
+<br />
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project5.png")
+<br />
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project6.png")
+<br />
+
 ## Prerequisites
 1. You need to have Python installed on your device.
 2. You need to install SpeechRecognition, pyaudio and PyQt5 library on python while going to command prompt and type-
