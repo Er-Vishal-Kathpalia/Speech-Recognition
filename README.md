@@ -40,9 +40,9 @@ There are different section in my software
 ## View of project
 
 <br />
-![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project1.png")
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project1.png "Optional title")
 <br />
-![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project2.png")
+![Alt text](https://github.com/Er-Vishal-Kathpalia/Tableau_Dashboard/blob/master/Picture1.png "Optional title")
 <br />
 ![Alt text](https://github.com/Er-Vishal-Kathpalia/Speech-Recognition/blob/main/img/Project3.png")
 <br />
