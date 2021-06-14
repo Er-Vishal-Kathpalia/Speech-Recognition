@@ -17,7 +17,7 @@ class NewsClass(QMainWindow):
         self.ui.statusbar.showMessage('Opening news')
         import requests
         #import json
-        request = requests.get('https://newsapi.org/v2/everything?q=apple&from=2019-07-23&to=2019-07-23&sortBy=popularity&apiKey=9b817e6c831649e5823ab94995f8aeed')
+        request = requests.get('https://newsapi.org/v2/everything?q=tesla&from=2021-05-14&sortBy=publishedAt&apiKey=714dbbf5953a40f9bb0f297f4e13c01d')
         print(request)
         data = request.json()
         article = data['articles']
@@ -69,7 +69,7 @@ class CompClass(QMainWindow):
     def showWord(self):
         self.ui.statusbar.showMessage('Opening MS Word...')
         import os
-        os.chdir('C:/Program Files (x86)/Microsoft Office/Office12')
+        os.chdir('C:/Program Files (x86)/Microsoft Office/root/Office16')
         os.startfile('WINWORD.exe')
         self.ui.statusbar.showMessage('MS Word Opened!')
 
