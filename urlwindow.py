@@ -17,7 +17,7 @@ class Ui_UrlWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(230, 100, 281, 161))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("C:/Users/Shreya/Downloads/download.png"))
+        self.label.setPixmap(QtGui.QPixmap("C:/Users/Vishal Kathpalia/AppData/Local/Programs/Python/Python39/srpyqt/img/url.png"))
         self.label.setObjectName("label")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton.setGeometry(QtCore.QRect(240, 300, 251, 111))

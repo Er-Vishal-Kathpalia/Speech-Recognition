@@ -46,7 +46,7 @@ class NewsClass(QMainWindow):
         self.opennews()
         self.page = QUrl('')
         data = self.page.fromLocalFile()
-        self.ui.textBrowser.setSearchPaths('C:/Users/Vishal Kathpalia/AppData/Local/Programs/Python/Python37/srpyqt')
+        self.ui.textBrowser.setSearchPaths('C:/Users/Vishal Kathpalia/AppData/Local/Programs/Python/Python39/srpyqt')
         self.ui.textBrowser.setHtml('<h2>Hello World!</h2>')
         self.ui.textBrowser.setSource(self.page)
         self.ui.pushButton.clicked.connect(self.nextnews)

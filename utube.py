@@ -17,7 +17,7 @@ class Ui_YoutubeWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(250, 100, 281, 161))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("C:/Users/Shreya/Downloads/download.png"))
+        self.label.setPixmap(QtGui.QPixmap("C:/Users/Vishal Kathpalia/AppData/Local/Programs/Python/Python39/srpyqt/img/youtube.png"))
         self.label.setObjectName("label")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton.setGeometry(QtCore.QRect(270, 300, 251, 111))
@@ -58,7 +58,7 @@ class Ui_YoutubeWindow(object):
         YoutubeWindow.setWindowTitle(_translate("YoutubeWindow", "MainWindow"))
         self.pushButton.setText(_translate("YoutubeWindow", "Play Music On YouTube!"))
         self.label_2.setText(_translate("YoutubeWindow", "Say : Play \"Artist/Album Name\"!"))
-        self.menuMenus.setTitle(_translate("YoutubeWindow", "Menus"))
+        self.menuMenus.setTitle(_translate("YoutubeWindow", "Menu"))
         self.actionMain_Window.setText(_translate("YoutubeWindow", "Main Window!"))
         self.actionExit.setText(_translate("YoutubeWindow", "Exit!"))
 
