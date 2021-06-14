@@ -5,9 +5,11 @@
 Speech recognition is an interdisciplinary subfield of computer science and computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition (ASR), computer speech recognition or speech to text (STT). It incorporates knowledge and research in the computer science, linguistics and computer engineering fields.
 
 [Pyqt5](https://pypi.org/project/PyQt5/)
+<br />
 [Speech Recognition](https://pypi.org/project/SpeechRecognition/)
+<br />
 [Pyaudio](https://pypi.org/project/PyAudio/)
-
+<br />
 ## PyQt5
 Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. These include location and positioning services, multimedia, NFC and Bluetooth connectivity, a Chromium based web browser, as well as traditional UI development.
 
